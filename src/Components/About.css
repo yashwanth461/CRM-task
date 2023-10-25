@@ -1,0 +1,23 @@
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}
+
+.left-column {
+  flex: 1;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.right-column {
+  flex: 1;
+  text-align: center;
+  padding: 20px;
+}
+
+.image-about {
+  width: 100%;
+  max-height: 100%;
+}
